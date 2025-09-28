@@ -1,0 +1,61 @@
+# CMake build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake-build-*/
+
+# Visual Studio generated files
+/.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.sln.docstates
+
+# Compiler outputs
+*.obj
+*.o
+*.lo
+*.slo
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.sbr
+*.tlh
+*.tli
+*.tlog
+*.log
+
+# Binaries and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+*.app
+*.out
+*.so
+*.dylib
+*.a
+
+# Debug and release directories
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# IDE-specific state
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.ipch
+
+# Local configuration files
+
+# Miscellaneous
+*.tmp
+*.cache
+*.swp
+.DS_Store
+Thumbs.db
