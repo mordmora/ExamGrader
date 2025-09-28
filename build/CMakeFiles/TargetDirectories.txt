@@ -1,5 +1,0 @@
-C:/Users/MordMora/Documents/Programación/ICFES_AI/build/CMakeFiles/inih.dir
-C:/Users/MordMora/Documents/Programación/ICFES_AI/build/CMakeFiles/grader_lib.dir
-C:/Users/MordMora/Documents/Programación/ICFES_AI/build/CMakeFiles/exam_grader.dir
-C:/Users/MordMora/Documents/Programación/ICFES_AI/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/MordMora/Documents/Programación/ICFES_AI/build/CMakeFiles/ZERO_CHECK.dir
